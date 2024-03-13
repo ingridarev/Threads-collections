@@ -1,0 +1,25 @@
+
+g	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ø÷éËâ1
+‰
+java:S1488W"gImmediately return this expression instead of assigning it to the temporary variable "formattedString".(œå½÷úÿÿÿÿ8ù÷éËâ1
+7
+java:S1220""Move this file to a named package.8ú÷éËâ1
+G	java:S106"+Replace this use of System.out by a logger.(£ØÌš8…øéËâ1
+{
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8†øéËâ1
+L	java:S106"+Replace this use of System.out by a logger.(¥°±Äıÿÿÿÿ8†øéËâ1
+G	java:S106("+Replace this use of System.out by a logger.(­ş£¿8ˆøéËâ1
+L	java:S106)"+Replace this use of System.out by a logger.(¯€Ñ¼úÿÿÿÿ8ˆøéËâ1
+O
+java:S14818"2Remove this unused "formattedName" local variable.(ğ’¨ù8‰øéËâ1
+G	java:S106@"+Replace this use of System.out by a logger.(ìÏõï8ŠøéËâ1
+X	java:S125E"<This block of commented-out lines of code should be removed.(Ã¢âú8½’øËâ1
+n
+java:S1612J"QReplace this lambda with method reference 'Calculator::addPointsIfBornOnWeekend'.(í±×˜8Á’øËâ1
+u
+java:S1612K"SReplace this lambda with method reference 'Calculator::addPointsIfNotBornInWinter'.(³şÖ¸şÿÿÿÿ8Â’øËâ1
+z
+java:S1612L"XReplace this lambda with method reference 'Calculator::addPointsIfGoodStartingPosition'.(í¶×òÿÿÿÿÿ8Â’øËâ1
+L	java:S106Q"+Replace this use of System.out by a logger.(ßõ¾ùÿÿÿÿ8ÎÇóËâ1
+j
+java:S5361V"HReplace this call to "replaceAll()" by a call to the "replace()" method.(İÓøõøÿÿÿÿ8‹øéËâ1
